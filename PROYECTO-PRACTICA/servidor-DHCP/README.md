@@ -49,3 +49,4 @@ quiero que permita gestionar IPs <para q aprenda de redes pq soy un maldito infg
 			El Sysadmin asigna las direcciones IP a los clientes mediante la MAC
 			Esta configuración se pasa por el arco del triunfo la configuración manual del dispositivo pero a cambio nos da el maldito poder total de asignar las direcciones a los sysadmins jajajajajajajajajajajajajajajajjajajajajajajjajajajajajajajajajajajajajajajajajajajajajajajajajajajjajajajajajaja
 				
+JAJA QUE PEDO, DESPUES DE LEER TODO EL RFC 2131 ME DI CUENTA DE QUE NECESITO UN SWITCH PARA PODER PROBAR Y HACER ESDTO JAJAJA SE QUEDA EN PAUSA HASTA NUEVO AVISOP
